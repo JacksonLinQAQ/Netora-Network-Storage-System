@@ -2,6 +2,6 @@
 
 ## I) Introduction
 
-It is a tool that allows you to build a Netora Network System on your computer.
+It is a tool that allows you to build a Netora Network System on your computer.</br>
 __Note: You can only access the system within the same LAN as your Netora system__
 
