@@ -1,2 +1,7 @@
 # Netora-Network-Storage-System
-It is a tool that allows you to upload files or folders to the Netora system or download files or folders from the Netora system.
+
+## I) Introduction
+
+It is a tool that allows you to build a Netora Network System on your computer.
+__Note: You can only access the system within the same LAN as your Netora system__
+
