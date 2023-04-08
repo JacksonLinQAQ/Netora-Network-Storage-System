@@ -22,16 +22,34 @@ You can upload and download files or folders from the Netora Network System.</br
 - time
 - zipfile
 
-## III) Setup
+## III) Installation
 
-### Step 1) Download the app from this [link](https://github.com/JacksonLinQAQ/Netora-Network-Storage-System/blob/main/Netora%20NSS%20-%20Network%20Storage%20System.zip?raw=true)
+#### Step 1) Download the app from this [link](https://github.com/JacksonLinQAQ/Netora-Network-Storage-System/blob/main/Netora%20NSS%20-%20Network%20Storage%20System.zip?raw=true)
 
-### Step 2) Download and install [Python](https://www.python.org/)
+#### Step 2) Download and install [Python](https://www.python.org/)
 
-### Step 3) Open Windows Command Prompt (CMD)
+#### Step 3) Open Windows Command Prompt (CMD)
 
-### Step 4) Install all require modules using command: ```pip install (module-name)```
+#### Step 4) Install all require modules using command: ```pip install (module-name)```
 
-### Step 5) Extract the app file and run the ```app.py``` file
+#### Step 5) Extract the app file and run the ```app.py``` file
 
-### Step 6) The server is running now
+#### Step 6) The server is running now
+
+## IIII) Setup
+
+#### Step 1) Enter the URL displayed on the window where the server is running into your browser
+
+#### Step 2) Click the 'Get Started' button
+
+#### Step 3) Enter a system name you want in the input box then click 'Create'
+
+#### Step 4) Create a Netora user then click 'Create'
+
+#### Step 5) It will then redirect to the home page of the Netora system
+
+#### Step 6) Click the 'Login' button
+
+#### Step 7) Login your Netora user account you just created then click 'Login'
+
+#### Step 8) Then, you logged in to the Netora system. Now you can start using
