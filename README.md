@@ -1,5 +1,7 @@
 # Netora-Network-Storage-System
 
+![preview.png](https://raw.githubusercontent.com/JacksonLinQAQ/Netora-Network-Storage-System/main/preview.png)
+
 ## I) Introduction
 
 It is a tool that allows you to build a Netora Network System on your computer.</br>
