@@ -36,7 +36,7 @@ You can upload and download files or folders from the Netora Network System.</br
 
 #### Step 6) The server is running now
 
-## IIII) Setup
+## IV) Setup
 
 #### Step 1) Enter the URL displayed on the window where the server is running into your browser
 
