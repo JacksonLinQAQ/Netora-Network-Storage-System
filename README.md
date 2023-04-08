@@ -1,6 +1,7 @@
 # Netora-Network-Storage-System
 
 ![preview.png](https://raw.githubusercontent.com/JacksonLinQAQ/Netora-Network-Storage-System/main/preview.png)
+![preview2.png](https://raw.githubusercontent.com/JacksonLinQAQ/Netora-Network-Storage-System/main/preview2.png)
 
 ## I) Introduction
 
