@@ -10,7 +10,7 @@ __Note: You can only access the system within the same LAN as your Netora system
 
 You can upload and download files or folders from the Netora Network System.</br>
 
-App Language: English
+App Language: English / Traditional Chinese
 
 ## II) Environment
 
